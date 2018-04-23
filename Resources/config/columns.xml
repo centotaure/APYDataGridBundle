@@ -19,47 +19,47 @@
     </parameters>
 
     <services>
-        <service id="grid.column.text" class="%grid.column.text.class%" public="false">
+        <service id="grid.column.text" class="%grid.column.text.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.number" class="%grid.column.number.class%" public="false">
+        <service id="grid.column.number" class="%grid.column.number.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.boolean" class="%grid.column.boolean.class%" public="false">
+        <service id="grid.column.boolean" class="%grid.column.boolean.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.datetime" class="%grid.column.datetime.class%" public="false">
+        <service id="grid.column.datetime" class="%grid.column.datetime.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.date" class="%grid.column.date.class%" public="false">
+        <service id="grid.column.date" class="%grid.column.date.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.time" class="%grid.column.time.class%" public="false">
+        <service id="grid.column.time" class="%grid.column.time.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.array" class="%grid.column.array.class%" public="false">
+        <service id="grid.column.array" class="%grid.column.array.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.simple_array" class="%grid.column.simple_array.class%" public="false">
+        <service id="grid.column.simple_array" class="%grid.column.simple_array.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.blank" class="%grid.column.blank.class%" public="false">
+        <service id="grid.column.blank" class="%grid.column.blank.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.rank" class="%grid.column.rank.class%" public="false">
+        <service id="grid.column.rank" class="%grid.column.rank.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
 
-        <service id="grid.column.join" class="%grid.column.join.class%" public="false">
+        <service id="grid.column.join" class="%grid.column.join.class%" public="true">
             <tag name="grid.column.extension" />
         </service>
     </services>

@@ -1,5 +1,5 @@
 {
-    "name": "centotaure/apy/datagrid-bundle",
+    "name": "centotaure/grid",
     "description": "Symfony Datagrid Bundle",
     "keywords": ["Symfony", "datagrid"],
     "homepage": "https://github.com/apy/APYDataGridBundle",

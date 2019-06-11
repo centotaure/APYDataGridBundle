@@ -68,7 +68,7 @@ class RankColumnTest extends TestCase
     {
         $this->assertAttributeEquals(Column::ALIGN_CENTER, 'align', $this->column);
 
-        $column = new RankColumn(['align' => Column::ALIGN_RIGHT]);
+        $column = new RankColumn(['align' => Column::ALIGN_LEFT]);
         $this->assertAttributeEquals(Column::ALIGN_RIGHT, 'align', $column);
     }
 
